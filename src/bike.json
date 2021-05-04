@@ -1,0 +1,2232 @@
+[
+  {
+    "bike_name": "BMWS1000RR",
+    "bike_detail_name": "BMWS1000RRStandard",
+    "bike_price": "19.18LakhsEx-Showroomprice,NewDelhi",
+    "engine": "999Cc",
+    "mileage": "17Kmpl",
+    "power": "195.7Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/b1/d/bmw-s-1000-rr-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bmw/s-1000-rr/"
+  },
+  {
+    "bike_name": "TriumphTigerExplorer",
+    "bike_detail_name": "TriumphTigerExplorerXC",
+    "bike_price": "19.03LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1215Cc",
+    "mileage": "19Kmpl",
+    "power": "135Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/67/c/triumph-tiger-explorer-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/triumph/tiger-explorer/"
+  },
+  {
+    "bike_name": "ApriliaRSV4",
+    "bike_detail_name": "ApriliaRSV4RR",
+    "bike_price": "21.30LakhsEx-Showroomprice,NewDelhi",
+    "engine": "999Cc",
+    "mileage": "12Kmpl",
+    "power": "183.2Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/ce/9/aprilia-rsv4-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/aprilia/rsv4/"
+  },
+  {
+    "bike_name": "HondaAviator",
+    "bike_detail_name": "HondaAviatorDisk",
+    "bike_price": "56,507Ex-Showroomprice,NewDelhi",
+    "engine": "109.19Cc",
+    "mileage": "50Kmpl",
+    "power": "8Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/f6/6/honda-aviator-1522220942.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/aviator/"
+  },
+  {
+    "bike_name": "BMWR1200RT",
+    "bike_detail_name": "BMWR1200RTStandard",
+    "bike_price": "18.77LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1170Cc",
+    "mileage": "18Kmpl",
+    "power": "111.5Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/1f/a/bmw-r-1200-rt-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bmw/r-1200-rt/"
+  },
+  {
+    "bike_name": "IndianMotorcycleRoadmaster",
+    "bike_detail_name": "IndianMotorcycleRoadmasterStandard",
+    "bike_price": "42.15LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1811Cc",
+    "mileage": "15Kmpl",
+    "power": "100Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/18/2/indian-motorcycle-roadmaster-1506603449.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/indianmotorcycle/roadmaster/"
+  },
+  {
+    "bike_name": "TriumphThunderbirdLT",
+    "bike_detail_name": "TriumphThunderbirdLTStandard",
+    "bike_price": "17.00LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1699Cc",
+    "mileage": "16Kmpl",
+    "power": "92.7Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/9a/8/triumph-thunderbird-lt-1505136675.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/triumph/thunderbird-lt/"
+  },
+  {
+    "bike_name": "YamahaSZ-RR",
+    "bike_detail_name": "YamahaSZ-RRMattGreen",
+    "bike_price": "68,803Ex-Showroomprice,NewDelhi",
+    "engine": "153Cc",
+    "mileage": "55Kmpl",
+    "power": "12Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/ff/2/yamaha-sz-rr-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/yamaha/sz-rr/"
+  },
+  {
+    "bike_name": "IndianMotorcycleIndianChiefClassic",
+    "bike_detail_name": "IndianMotorcycleIndianChiefClassicStandard",
+    "bike_price": "21.51LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1811Cc",
+    "mileage": "14Kmpl",
+    "power": "100Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/9d/1/indian-motorcycle-indian-chief-classic-1506603530.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/indianmotorcycle/indian-chief-classic/"
+  },
+  {
+    "bike_name": "DucatiDiavel",
+    "bike_detail_name": "DucatiDiavelStandard",
+    "bike_price": "15.93LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1198Cc",
+    "mileage": "10Kmpl",
+    "power": "164.3Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/84/2/ducati-diavel-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/ducati/diavel/"
+  },
+  {
+    "bike_name": "Harley-DavidsonIron883",
+    "bike_detail_name": "Harley-DavidsonIron883Standard",
+    "bike_price": "8.39LakhsEx-Showroomprice,NewDelhi",
+    "engine": "883Cc",
+    "mileage": "20Kmpl",
+    "power": "50Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/fd/a/harley-davidson-iron-883-1505135765.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/harleydavidson/iron-883/"
+  },
+  {
+    "bike_name": "RoyalEnfieldThunderbird",
+    "bike_detail_name": "RoyalEnfieldThunderbird350",
+    "bike_price": "1.50LakhsEx-Showroomprice,NewDelhi",
+    "engine": "346Cc",
+    "mileage": "53Kmpl",
+    "power": "19.8Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/c9/8/royal-enfield-thunderbird-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/royalenfield/thunderbird/"
+  },
+  {
+    "bike_name": "IndianMotorcycleScout",
+    "bike_detail_name": "IndianMotorcycleScoutStandard",
+    "bike_price": "13.60LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1131Cc",
+    "mileage": "20Kmpl",
+    "power": "100Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/85/3/indian-motorcycle-scout-1506603363.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/indianmotorcycle/scout/"
+  },
+  {
+    "bike_name": "Harley-DavidsonFatBob",
+    "bike_detail_name": "Harley-DavidsonFatBobStandard",
+    "bike_price": "13.99LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1690Cc",
+    "mileage": "30Kmpl",
+    "power": "65Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/ff/7/harley-davidson-fat-bob-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/harleydavidson/fat-bob/"
+  },
+  {
+    "bike_name": "IndianMotorcycleIndianChieftain",
+    "bike_detail_name": "IndianMotorcycleIndianChieftainStandard",
+    "bike_price": "34.45LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1811Cc",
+    "mileage": "14Kmpl",
+    "power": "100Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/87/f/indian-motorcycle-indian-chieftain-1506603478.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/indianmotorcycle/indian-chieftain/"
+  },
+  {
+    "bike_name": "Harley-DavidsonHeritageSoftailClassic",
+    "bike_detail_name": "Harley-DavidsonHeritageSoftailClassicStandard",
+    "bike_price": "16.00LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1690Cc",
+    "mileage": "15Kmpl",
+    "power": "65Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/69/0/harley-davidson-heritage-softail-classic-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/harleydavidson/heritage-softail-classic/"
+  },
+  {
+    "bike_name": "DucatiHyperstrada",
+    "bike_detail_name": "DucatiHyperstradaStandard",
+    "bike_price": "12.19LakhsEx-Showroomprice,NewDelhi",
+    "engine": "821Cc",
+    "mileage": "12Kmpl",
+    "power": "111.5Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/d/b/ducati-hyperstrada-1505722004.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/ducati/hyperstrada/"
+  },
+  {
+    "bike_name": "ApriliaTuonoV41100",
+    "bike_detail_name": "ApriliaTuonoV41100Factory",
+    "bike_price": "19.38LakhsEx-Showroomprice,NewDelhi",
+    "engine": "999Cc",
+    "mileage": "12Kmpl",
+    "power": "167.2Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/57/d/aprilia-tuono-v4-1100-1526020498.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/aprilia/tuono-v4-r-abs/"
+  },
+  {
+    "bike_name": "Harley-DavidsonFatBoy",
+    "bike_detail_name": "Harley-DavidsonFatBoyStandard",
+    "bike_price": "17.49LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1690Cc",
+    "mileage": "18Kmpl",
+    "power": "65Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/99/f/harley-davidson-fat-boy-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/harleydavidson/fat-boy/"
+  },
+  {
+    "bike_name": "YamahaFazer",
+    "bike_detail_name": "YamahaFazerFIVersion2.0",
+    "bike_price": "88,143Ex-Showroomprice,NewDelhi",
+    "engine": "149Cc",
+    "mileage": "50.81Kmpl",
+    "power": "12.9Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/74/2/yamaha-fazer-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/yamaha/fazer/"
+  },
+  {
+    "bike_name": "DucatiMultistrada",
+    "bike_detail_name": "DucatiMultistrada1200",
+    "bike_price": "15.38LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1198Cc",
+    "mileage": "28Kmpl",
+    "power": "152.1Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/e8/7/ducati-multistrada-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/ducati/multistrada/"
+  },
+  {
+    "bike_name": "Harley-Davidson1200Custom",
+    "bike_detail_name": "Harley-Davidson1200CustomStandard",
+    "bike_price": "9.85LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1202Cc",
+    "mileage": "18Kmpl",
+    "power": "67.7Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/43/9/harley-davidson-1200-custom-1505208365.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/harleydavidson/1200-custom/"
+  },
+  {
+    "bike_name": "RoyalEnfieldHimalayan",
+    "bike_detail_name": "RoyalEnfieldHimalayanSTD",
+    "bike_price": "1.68LakhsEx-Showroomprice,NewDelhi",
+    "engine": "411Cc",
+    "mileage": "45Kmpl",
+    "power": "24.5Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/cd/7/royal-enfield-himalayan-1500375484.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/royalenfield/himalayan/"
+  },
+  {
+    "bike_name": "KTMDuke250",
+    "bike_detail_name": "KTMDuke250STD",
+    "bike_price": "1.76LakhsEx-Showroomprice,NewDelhi",
+    "engine": "248.8Cc",
+    "mileage": "30Kmpl",
+    "power": "29.58Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/85/9/Duke_250.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/ktm/duke-250/"
+  },
+  {
+    "bike_name": "SuzukiAccess125(SE)",
+    "bike_detail_name": "SuzukiAccess125(SE)DiscBrake",
+    "bike_price": "60,046Ex-Showroomprice,NewDelhi",
+    "engine": "124Cc",
+    "mileage": "64Kmpl",
+    "power": "8.4Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/28/7/suzuki-access-125se-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/suzuki/access-125se/"
+  },
+  {
+    "bike_name": "HeroSplendoriSmart",
+    "bike_detail_name": "HeroSplendoriSmartSelfStartDrumBrakeAlloyWheel",
+    "bike_price": "55,837Ex-Showroomprice,NewDelhi",
+    "engine": "109.15Cc",
+    "mileage": "75Kmpl",
+    "power": "9.3Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/45/c/hero-splendor-ismart-1570598625.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/heromotocorp/splendor-ismart/"
+  },
+  {
+    "bike_name": "KTM390DukeABS",
+    "bike_detail_name": "KTM390DukeABSStandard",
+    "bike_price": "2.44LakhsEx-Showroomprice,NewDelhi",
+    "engine": "373Cc",
+    "mileage": "25Kmpl",
+    "power": "43.5Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/5f/8/ktm-390-duke-abs-1487848504.gif",
+    "bike_detail_link": "https://autoportal.com/newbikes/ktm/390-duke-abs/"
+  },
+  {
+    "bike_name": "KTMRC390",
+    "bike_detail_name": "KTMRC390Standard",
+    "bike_price": "2.34LakhsEx-Showroomprice,NewDelhi",
+    "engine": "373Cc",
+    "mileage": "26Kmpl",
+    "power": "43.6Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/56/9/ktm-rc-390-1500375085.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/ktm/rc-390/"
+  },
+  {
+    "bike_name": "Harley-DavidsonStreetGlideSpecial",
+    "bike_detail_name": "Harley-DavidsonStreetGlideSpecialStandard",
+    "bike_price": "33.57LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1690Cc",
+    "mileage": "15Kmpl",
+    "power": "65Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/24/a/harley-davidson-street-glide-special-1505212804.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/harleydavidson/street-glide/"
+  },
+  {
+    "bike_name": "HyosungST7",
+    "bike_detail_name": "HyosungST7Standard",
+    "bike_price": "6.08LakhsEx-Showroomprice,NewDelhi",
+    "engine": "678Cc",
+    "mileage": "19Kmpl",
+    "power": "58Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/df/1/hyosung-st7-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/hyosung/st7/"
+  },
+  {
+    "bike_name": "HyosungAquila250",
+    "bike_detail_name": "HyosungAquila250Standard",
+    "bike_price": "2.89LakhsEx-Showroomprice,NewDelhi",
+    "engine": "249Cc",
+    "mileage": "28Kmpl",
+    "power": "26.6Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/11/d/hyosung-aquila-250-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/hyosung/aquila-250/"
+  },
+  {
+    "bike_name": "SuzukiHayabusa",
+    "bike_detail_name": "SuzukiHayabusaStandard",
+    "bike_price": "13.74LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1340Cc",
+    "mileage": "18Kmpl",
+    "power": "197Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/ab/5/suzuki-hayabusa-1526020583.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/suzuki/hayabusa/"
+  },
+  {
+    "bike_name": "MotoGuzziGriso8VSE",
+    "bike_detail_name": "MotoGuzziGriso8VSEStandard",
+    "bike_price": "16.04LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1151Cc",
+    "mileage": "16Kmpl",
+    "power": "112Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/ac/d/moto-guzzi-griso-8v-se-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/motoguzzi/griso-8v-se/"
+  },
+  {
+    "bike_name": "SuzukiGixxerSF[2019]",
+    "bike_detail_name": "SuzukiGixxerSF[2019]Standard",
+    "bike_price": "1.10LakhsEx-Showroomprice,NewDelhi",
+    "engine": "154.9Cc",
+    "mileage": "63.5Kmpl",
+    "power": "14.1Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/58/5/suzuki-gixxer-sf-1558342485.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/suzuki/gixxer-sf/"
+  },
+  {
+    "bike_name": "TVSWego",
+    "bike_detail_name": "TVSWegoDrumBrake",
+    "bike_price": "50,515Ex-Showroomprice,NewDelhi",
+    "engine": "109.7Cc",
+    "mileage": "70Kmpl",
+    "power": "5.8Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/2f/2/tvs-wego-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/tvs/wego/"
+  },
+  {
+    "bike_name": "YamahaRay",
+    "bike_detail_name": "YamahaRayZ",
+    "bike_price": "51,017Ex-Showroomprice,NewDelhi",
+    "engine": "113Cc",
+    "mileage": "53Kmpl",
+    "power": "7Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/f/b/yamaha-ray-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/yamaha/ray/"
+  },
+  {
+    "bike_name": "KTMRC200",
+    "bike_detail_name": "KTMRC200Standard",
+    "bike_price": "1.75LakhsEx-Showroomprice,NewDelhi",
+    "engine": "199Cc",
+    "mileage": "30Kmpl",
+    "power": "25.3Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/68/f/ktm-rc-200-1500375006.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/ktm/rc-200/"
+  },
+  {
+    "bike_name": "SuzukiHayateEP",
+    "bike_detail_name": "SuzukiHayateEPElectricStart",
+    "bike_price": "52,953Ex-Showroomprice,NewDelhi",
+    "engine": "112Cc",
+    "mileage": "58Kmpl",
+    "power": "8.3Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/19/7/suzuki-hayate-1464785913.JPG",
+    "bike_detail_link": "https://autoportal.com/newbikes/suzuki/hayate/"
+  },
+  {
+    "bike_name": "YamahaYZFR1",
+    "bike_detail_name": "YamahaYZFR1Standard",
+    "bike_price": "18.16LakhsEx-Showroomprice,NewDelhi",
+    "engine": "998Cc",
+    "mileage": "20Kmpl",
+    "power": "197.3Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/65/6/yamaha-yzf-r1-2018-1513152064.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/yamaha/yzf-r1/"
+  },
+  {
+    "bike_name": "YamahaSaluto",
+    "bike_detail_name": "YamahaSalutoDrumBrakes",
+    "bike_price": "54,398Ex-Showroomprice,NewDelhi",
+    "engine": "125Cc",
+    "mileage": "78Kmpl",
+    "power": "8.2Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/bb/d/yamaha-saluto-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/yamaha/saluto/"
+  },
+  {
+    "bike_name": "SuzukiGixxer",
+    "bike_detail_name": "SuzukiGixxerDualTone",
+    "bike_price": "80,929Ex-Showroomprice,NewDelhi",
+    "engine": "154Cc",
+    "mileage": "64Kmpl",
+    "power": "14.6Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/cd/e/suzuki-gixxer-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/suzuki/gixxer-150/"
+  },
+  {
+    "bike_name": "HeroHFDeluxe",
+    "bike_detail_name": "HeroHFDeluxeKick-Spoke",
+    "bike_price": "43,000Ex-Showroomprice,NewDelhi",
+    "engine": "97.2Cc",
+    "mileage": "60Kmpl",
+    "power": "8.2Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/d9/3/hero-hf-deluxe-1464785912.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/heromotocorp/hf-deluxe/"
+  },
+  {
+    "bike_name": "TVSJupiter",
+    "bike_detail_name": "TVSJupiterZXDisc",
+    "bike_price": "56,163Ex-Showroomprice,NewDelhi",
+    "engine": "109.7Cc",
+    "mileage": "62Kmpl",
+    "power": "5.88Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/65/4/tvs-jupiter-1500375732.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/tvs/jupiter/"
+  },
+  {
+    "bike_name": "BajajV",
+    "bike_detail_name": "BajajV12DiscBrake",
+    "bike_price": "59,552Ex-Showroomprice,NewDelhi",
+    "engine": "124.6Cc",
+    "mileage": "70Kmpl",
+    "power": "10.6Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/b6/8/bajaj-v-1500372202.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bajaj/v/"
+  },
+  {
+    "bike_name": "YamahaYZFR15V3",
+    "bike_detail_name": "YamahaYZFR15V3STD",
+    "bike_price": "1.25LakhsEx-Showroomprice,NewDelhi",
+    "engine": "155Cc",
+    "mileage": "30Kmpl",
+    "power": "19.4Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/85/f/small.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/yamaha/yzf-r15-v3/"
+  },
+  {
+    "bike_name": "RoyalEnfieldThunderbird350X",
+    "bike_detail_name": "RoyalEnfieldThunderbird350XSTD",
+    "bike_price": "1.57LakhsEx-Showroomprice,NewDelhi",
+    "engine": "346Cc",
+    "mileage": "35Kmpl",
+    "power": "19.8Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/82/4/Royal-Enfield-Thunderbird-X-side-3.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/royalenfield/thunderbird-350x/"
+  },
+  {
+    "bike_name": "HeroMaestroEdge",
+    "bike_detail_name": "HeroMaestroEdgeZX",
+    "bike_price": "51,300Ex-Showroomprice,NewDelhi",
+    "engine": "110Cc",
+    "mileage": "65Kmpl",
+    "power": "8.31Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/28/7/hero-maestro-edge-1505826031.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/heromotocorp/maestro/"
+  },
+  {
+    "bike_name": "HondaNavi",
+    "bike_detail_name": "HondaNaviStreet",
+    "bike_price": "44,775Ex-Showroomprice,NewDelhi",
+    "engine": "109.19Cc",
+    "mileage": "50Kmpl",
+    "power": "7.83Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/22/b/honda-navi-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/navi/"
+  },
+  {
+    "bike_name": "TriumphStreetTwin",
+    "bike_detail_name": "TriumphStreetTwinStandard",
+    "bike_price": "7.45LakhsEx-Showroomprice,NewDelhi",
+    "engine": "900Cc",
+    "mileage": "18Kmpl",
+    "power": "54.3Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/d1/7/triumph-street-twin-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/triumph/street-twin/"
+  },
+  {
+    "bike_name": "YamahaFZ25",
+    "bike_detail_name": "YamahaFZ25STD",
+    "bike_price": "1.19LakhsEx-Showroomprice,NewDelhi",
+    "engine": "249Cc",
+    "mileage": "43Kmpl",
+    "power": "20.3Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/da/6/yamaha-fz25-1488175865.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/yamaha/fz25/"
+  },
+  {
+    "bike_name": "BajajPulsar150DTS-i",
+    "bike_detail_name": "BajajPulsar150DTS-iTwinDisc",
+    "bike_price": "78,515Ex-Showroomprice,NewDelhi",
+    "engine": "149.5Cc",
+    "mileage": "65Kmpl",
+    "power": "13.8Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/31/a/bajaj-pulsar-150-dts-i-1464785912.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bajaj/pulsar-150-dts-i/"
+  },
+  {
+    "bike_name": "HeroXtreme200R",
+    "bike_detail_name": "HeroXtreme200RSelfStartABSDiscBrake",
+    "bike_price": "89,900Ex-Showroomprice,NewDelhi",
+    "engine": "199.9Cc",
+    "mileage": "39.9Kmpl",
+    "power": "18.4Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/74/a/hero-xtreme-200r-1522220900.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/heromotocorp/xtreme-200r/"
+  },
+  {
+    "bike_name": "TVSStarCityPlusBS6",
+    "bike_detail_name": "TVSStarCityPlusBS6ElectricStartMagGold",
+    "bike_price": "52,020Ex-Showroomprice,NewDelhi",
+    "engine": "109.7Cc",
+    "mileage": "86Kmpl",
+    "power": "8.3Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/8d/8/tvs-star-city-plus-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/tvs/star-city/"
+  },
+  {
+    "bike_name": "TVSApacheRTR160BS6",
+    "bike_detail_name": "TVSApacheRTR160BS6ABSFrontDisc",
+    "bike_price": "93,500Ex-Showroomprice,NewDelhi",
+    "engine": "159.7Cc",
+    "mileage": "48Kmpl",
+    "power": "15Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/a4/4/tvs-apache-rtr-160-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/tvs/apache-rtr-160/"
+  },
+  {
+    "bike_name": "BMWK1600",
+    "bike_detail_name": "BMWK1600B",
+    "bike_price": "33.21LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1649Cc",
+    "mileage": "15Kmpl",
+    "power": "160.4Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/30/b/bmw-k-1600-gt-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bmw/k-1600-gt/"
+  },
+  {
+    "bike_name": "SuzukiGSX-R1000",
+    "bike_detail_name": "SuzukiGSX-R1000R",
+    "bike_price": "22.00LakhsEx-Showroomprice,NewDelhi",
+    "engine": "999Cc",
+    "mileage": "16Kmpl",
+    "power": "182Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/3e/2/suzuki-gsx-r1000-1506515410.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/suzuki/gsx-r1000/"
+  },
+  {
+    "bike_name": "TVSApache",
+    "bike_detail_name": "TVSApache160SingleDisc",
+    "bike_price": "78,715Ex-Showroomprice,NewDelhi",
+    "engine": "159Cc",
+    "mileage": "60Kmpl",
+    "power": "15.4Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/c8/b/tvs-apache-1542888363.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/tvs/apache/"
+  },
+  {
+    "bike_name": "DucatiHypermotard",
+    "bike_detail_name": "DucatiHypermotardStandard",
+    "bike_price": "11.99LakhsEx-Showroomprice,NewDelhi",
+    "engine": "821Cc",
+    "mileage": "13Kmpl",
+    "power": "111.5Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/30/8/ducati-hypermotard-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/ducati/hypermotard/"
+  },
+  {
+    "bike_name": "HeroPassionProi3S",
+    "bike_detail_name": "HeroPassionProi3SDiscBrakeAlloyWheel",
+    "bike_price": "55,050Ex-Showroomprice,NewDelhi",
+    "engine": "97.2Cc",
+    "mileage": "84Kmpl",
+    "power": "8.24Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/3a/9/hero-passion-pro-i3s-1486041217.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/heromotocorp/passion-pro-i3s/"
+  },
+  {
+    "bike_name": "SuzukiV-Strom1000",
+    "bike_detail_name": "SuzukiV-Strom1000Standard",
+    "bike_price": "13.45LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1037Cc",
+    "mileage": "12Kmpl",
+    "power": "98.6Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/ee/9/suzuki-v-strom-1000-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/suzuki/v-strom-1000/"
+  },
+  {
+    "bike_name": "TriumphThunderbirdStorm",
+    "bike_detail_name": "TriumphThunderbirdStormStandard",
+    "bike_price": "14.53LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1699Cc",
+    "mileage": "15Kmpl",
+    "power": "96.4Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/51/1/triumph-thunderbird-storm-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/triumph/thunderbird-storm/"
+  },
+  {
+    "bike_name": "DucatiPanigaleV4",
+    "bike_detail_name": "DucatiPanigaleV4Standard",
+    "bike_price": "20.53LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1103Cc",
+    "mileage": "15Kmpl",
+    "power": "211Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/71/e/ducati-panigale-v4-1509973630.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/ducati/v4-superbike/"
+  },
+  {
+    "bike_name": "BMWRnineT",
+    "bike_detail_name": "BMWRnineTStandard",
+    "bike_price": "18.16LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1170Cc",
+    "mileage": "22Kmpl",
+    "power": "112Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/2d/f/bmw-rnine-t-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bmw/rnine-t/"
+  },
+  {
+    "bike_name": "BenelliTNT600",
+    "bike_detail_name": "BenelliTNT600i",
+    "bike_price": "5.50LakhsEx-Showroomprice,NewDelhi",
+    "engine": "600Cc",
+    "mileage": "20Kmpl",
+    "power": "83.9Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/6a/e/benelli-tnt-600-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/benelli/tnt-600/"
+  },
+  {
+    "bike_name": "BMWR1200GS",
+    "bike_detail_name": "BMWR1200GSStandard",
+    "bike_price": "16.13LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1170Cc",
+    "mileage": "28Kmpl",
+    "power": "111.5Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/9e/b/bmw-r-1200-gs-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bmw/r-1200-gs/"
+  },
+  {
+    "bike_name": "TriumphTiger800",
+    "bike_detail_name": "TriumphTiger800XCx",
+    "bike_price": "13.26LakhsEx-Showroomprice,NewDelhi",
+    "engine": "800Cc",
+    "mileage": "25Kmpl",
+    "power": "93.4Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/0/5/triumph-tiger-800-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/triumph/tiger-800-xc/"
+  },
+  {
+    "bike_name": "DucatiMonster1200",
+    "bike_detail_name": "DucatiMonster1200Standard",
+    "bike_price": "23.02LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1198Cc",
+    "mileage": "35Kmpl",
+    "power": "135Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/b9/9/ducati-monster-1200-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/ducati/monster-1200/"
+  },
+  {
+    "bike_name": "KawasakiNinja",
+    "bike_detail_name": "KawasakiNinja1000",
+    "bike_price": "9.90LakhsEx-Showroomprice,NewDelhi",
+    "engine": "999Cc",
+    "mileage": "15Kmpl",
+    "power": "140Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/bb/3/kawasaki-ninja-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/kawasaki/ninja/"
+  },
+  {
+    "bike_name": "BenelliTNT300",
+    "bike_detail_name": "BenelliTNT300P",
+    "bike_price": "3.08LakhsEx-Showroomprice,NewDelhi",
+    "engine": "300Cc",
+    "mileage": "20Kmpl",
+    "power": "37Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/3c/b/benelli-tnt-300-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/benelli/tnt-300/"
+  },
+  {
+    "bike_name": "YamahaMT-09",
+    "bike_detail_name": "YamahaMT-09Standard",
+    "bike_price": "10.55LakhsEx-Showroomprice,NewDelhi",
+    "engine": "847Cc",
+    "mileage": "19Kmpl",
+    "power": "113.4Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/c7/e/yamaha-mt-09-1513152111.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/yamaha/mt/"
+  },
+  {
+    "bike_name": "ApriliaDorsoduro",
+    "bike_detail_name": "ApriliaDorsoduro1200ABS",
+    "bike_price": "17.36LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1197Cc",
+    "mileage": "20Kmpl",
+    "power": "130.5Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/c9/0/aprilia-dorsoduro-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/aprilia/dorsoduro/"
+  },
+  {
+    "bike_name": "TriumphSpeedTripleABS",
+    "bike_detail_name": "TriumphSpeedTripleABSStandard",
+    "bike_price": "11.64LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1050Cc",
+    "mileage": "15Kmpl",
+    "power": "125Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/1b/e/triumph-speed-triple-abs-1525941096.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/triumph/speed-triple-abs/"
+  },
+  {
+    "bike_name": "TriumphDaytona675",
+    "bike_detail_name": "TriumphDaytona675ABS",
+    "bike_price": "10.85LakhsEx-Showroomprice,NewDelhi",
+    "engine": "675Cc",
+    "mileage": "20Kmpl",
+    "power": "116Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/3b/4/triumph-daytona-675-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/triumph/daytona-675/"
+  },
+  {
+    "bike_name": "MotoGuzziCalifornia1400Touring",
+    "bike_detail_name": "MotoGuzziCalifornia1400TouringStandard",
+    "bike_price": "22.04LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1380Cc",
+    "mileage": "17Kmpl",
+    "power": "97.3Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/d3/3/moto-guzzi-california-1400-touring-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/motoguzzi/california-1400-touring/"
+  },
+  {
+    "bike_name": "KawasakiZ",
+    "bike_detail_name": "KawasakiZ250",
+    "bike_price": "3.06LakhsEx-Showroomprice,NewDelhi",
+    "engine": "250Cc",
+    "mileage": "25Kmpl",
+    "power": "31.5Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/33/f/kawasaki-z1000-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/kawasaki/z/"
+  },
+  {
+    "bike_name": "Harley-DavidsonStreet",
+    "bike_detail_name": "Harley-DavidsonStreet750Standard",
+    "bike_price": "5.14LakhsEx-Showroomprice,NewDelhi",
+    "engine": "749Cc",
+    "mileage": "18Kmpl",
+    "power": "53Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/21/c/harley-davidson-street-1505197260.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/harleydavidson/street-750/"
+  },
+  {
+    "bike_name": "Harley-DavidsonStreetBob",
+    "bike_detail_name": "Harley-DavidsonStreetBobStandard",
+    "bike_price": "11.99LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1585Cc",
+    "mileage": "15Kmpl",
+    "power": "64Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/f2/6/harley-davidson-street-bob-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/harleydavidson/street-bob/"
+  },
+  {
+    "bike_name": "HondaCBR1000RRFireblade",
+    "bike_detail_name": "HondaCBR1000RRFirebladeC-ABS",
+    "bike_price": "17.87LakhsEx-Showroomprice,NewDelhi",
+    "engine": "999Cc",
+    "mileage": "22Kmpl",
+    "power": "189Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/72/c/honda-cbr-1000rr-fireblade-1498048353.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/cbr-1000rr-fireblade/"
+  },
+  {
+    "bike_name": "TriumphRocketIIIRoadster",
+    "bike_detail_name": "TriumphRocketIIIRoadsterStandard",
+    "bike_price": "22.46LakhsEx-Showroomprice,NewDelhi",
+    "engine": "2294Cc",
+    "mileage": "21Kmpl",
+    "power": "146Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/62/d/triumph-rocket-iii-roadster-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/triumph/rocket-iii-roadster/"
+  },
+  {
+    "bike_name": "IndianMotorcycleIndianChiefVintage",
+    "bike_detail_name": "IndianMotorcycleIndianChiefVintageStandard",
+    "bike_price": "25.58LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1811Cc",
+    "mileage": "14Kmpl",
+    "power": "100Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/93/4/indian-motorcycle-indian-chief-vintage-1506603505.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/indianmotorcycle/indian-chief-vintage/"
+  },
+  {
+    "bike_name": "SuzukiIntruderM1800R",
+    "bike_detail_name": "SuzukiIntruderM1800RStandard",
+    "bike_price": "15.95LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1783Cc",
+    "mileage": "13Kmpl",
+    "power": "126Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/bc/6/suzuki-intruder-m1800r-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/suzuki/intruder-m1800r/"
+  },
+  {
+    "bike_name": "BMWR1200R",
+    "bike_detail_name": "BMWR1200RStandard",
+    "bike_price": "15.12LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1170Cc",
+    "mileage": "20Kmpl",
+    "power": "111.5Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/a3/2/bmw-r-1200-r-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bmw/r-1200-r/"
+  },
+  {
+    "bike_name": "TriumphStreetTriple",
+    "bike_detail_name": "TriumphStreetTripleStandard",
+    "bike_price": "11.31LakhsEx-Showroomprice,NewDelhi",
+    "engine": "675Cc",
+    "mileage": "18Kmpl",
+    "power": "78.2Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/0/e/triumph-street-triple-s-1500881744.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/triumph/street-triple-abs/"
+  },
+  {
+    "bike_name": "HyosungAquilaPro",
+    "bike_detail_name": "HyosungAquilaProStandard",
+    "bike_price": "5.56LakhsEx-Showroomprice,NewDelhi",
+    "engine": "647Cc",
+    "mileage": "18Kmpl",
+    "power": "75Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/ad/b/hyosung-aquila-pro-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/hyosung/aquila-pro/"
+  },
+  {
+    "bike_name": "BMWS1000R",
+    "bike_detail_name": "BMWS1000RStandard",
+    "bike_price": "17.15LakhsEx-Showroomprice,NewDelhi",
+    "engine": "999Cc",
+    "mileage": "14Kmpl",
+    "power": "162Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/d3/1/bmw-s-1000-r-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bmw/s-1000-r/"
+  },
+  {
+    "bike_name": "VespaSXL",
+    "bike_detail_name": "VespaSXL125",
+    "bike_price": "90,329Ex-Showroomprice,NewDelhi",
+    "engine": "125Cc",
+    "mileage": "59Kmpl",
+    "power": "9.9Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/48/b/vespa-sxl-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/vespa/sxl/"
+  },
+  {
+    "bike_name": "MotoGuzziCalifornia1400Custom",
+    "bike_detail_name": "MotoGuzziCalifornia1400CustomStandard",
+    "bike_price": "20.21LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1380Cc",
+    "mileage": "10Kmpl",
+    "power": "97.3Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/93/e/moto-guzzi-california-1400-custom-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/motoguzzi/california-1400-custom/"
+  },
+  {
+    "bike_name": "IndianMotorcycleChiefDarkHorse",
+    "bike_detail_name": "IndianMotorcycleChiefDarkHorseStandard",
+    "bike_price": "20.20LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1811Cc",
+    "mileage": "18Kmpl",
+    "power": "73Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/d1/8/indian-motorcycle-chief-dark-horse-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/indianmotorcycle/chief-dark-horse/"
+  },
+  {
+    "bike_name": "HyosungGT",
+    "bike_detail_name": "HyosungGT650R",
+    "bike_price": "4.79LakhsEx-Showroomprice,NewDelhi",
+    "engine": "647Cc",
+    "mileage": "25Kmpl",
+    "power": "73.7Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/1f/2/hyosung-gt-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/hyosung/gt/"
+  },
+  {
+    "bike_name": "HondaCBUnicorn150",
+    "bike_detail_name": "HondaCBUnicorn150Standard",
+    "bike_price": "69,961Ex-Showroomprice,NewDelhi",
+    "engine": "149Cc",
+    "mileage": "60Kmpl",
+    "power": "12.73Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/8d/8/honda-cb-unicorn-150-1522221041.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/cb-unicorn/"
+  },
+  {
+    "bike_name": "BajajDominar400",
+    "bike_detail_name": "BajajDominar400ABS",
+    "bike_price": "1.74LakhsEx-Showroomprice,NewDelhi",
+    "engine": "373.27Cc",
+    "mileage": "27Kmpl",
+    "power": "39.4Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/9c/6/bajaj-pulsar-400cs-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bajaj/pulsar-400cs/"
+  },
+  {
+    "bike_name": "HeroHFDeluxei3s",
+    "bike_detail_name": "HeroHFDeluxei3sDrumBrakeAlloyWheel",
+    "bike_price": "48,150Ex-Showroomprice,NewDelhi",
+    "engine": "97.2Cc",
+    "mileage": "81Kmpl",
+    "power": "8.24Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/4a/7/hero-hf-deluxe-i3s-1502284262.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/heromotocorp/hf-deluxe-i3s/"
+  },
+  {
+    "bike_name": "HondaDio",
+    "bike_detail_name": "HondaDioDeluxe",
+    "bike_price": "53,837Ex-Showroomprice,NewDelhi",
+    "engine": "109.19Cc",
+    "mileage": "55Kmpl",
+    "power": "8Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/35/4/honda-dio--1464785912.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/dio/"
+  },
+  {
+    "bike_name": "KTMDuke200",
+    "bike_detail_name": "KTMDuke200Standard",
+    "bike_price": "1.44LakhsEx-Showroomprice,NewDelhi",
+    "engine": "200Cc",
+    "mileage": "35Kmpl",
+    "power": "25.3Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/b3/e/ktm-duke-200-1500373694.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/ktm/duke-200/"
+  },
+  {
+    "bike_name": "Harley-DavidsonFortyEight",
+    "bike_detail_name": "Harley-DavidsonFortyEightStandard",
+    "bike_price": "10.07LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1202Cc",
+    "mileage": "18Kmpl",
+    "power": "60Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/68/b/harley-davidson-forty-eight-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/harleydavidson/forty-eight/"
+  },
+  {
+    "bike_name": "HondaCD110DreamDX",
+    "bike_detail_name": "HondaCD110DreamDXCBSStandardCarrier",
+    "bike_price": "44,897Ex-Showroomprice,NewDelhi",
+    "engine": "109.19Cc",
+    "mileage": "70Kmpl",
+    "power": "8.31Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/29/2/honda-cd-110-dream-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/cd-110-dream/"
+  },
+  {
+    "bike_name": "HondaDreamNeo",
+    "bike_detail_name": "HondaDreamNeo(Carrier)",
+    "bike_price": "52,051Ex-Showroomprice,NewDelhi",
+    "engine": "109.19Cc",
+    "mileage": "74Kmpl",
+    "power": "8.31Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/11/d/honda-dream-neo-1464785912.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/dream-neo/"
+  },
+  {
+    "bike_name": "HeroAchiever150",
+    "bike_detail_name": "HeroAchiever150Drum",
+    "bike_price": "65,900Ex-Showroomprice,NewDelhi",
+    "engine": "149.1Cc",
+    "mileage": "66Kmpl",
+    "power": "13.4Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/69/6/hero-achiever-1496387169.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/heromotocorp/achiever/"
+  },
+  {
+    "bike_name": "BajajCT100",
+    "bike_detail_name": "BajajCT100ESAlloy",
+    "bike_price": "39,885Ex-Showroomprice,NewDelhi",
+    "engine": "99.27Cc",
+    "mileage": "89.5Kmpl",
+    "power": "8.1Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/c3/8/bajaj-ct-100-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bajaj/ct-100/"
+  },
+  {
+    "bike_name": "TVSApacheRTR180ABS",
+    "bike_detail_name": "TVSApacheRTR180ABSStandard",
+    "bike_price": "93,997Ex-Showroomprice,NewDelhi",
+    "engine": "177Cc",
+    "mileage": "45Kmpl",
+    "power": "17.3Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/22/4/tvs-apache-rtr-180-abs-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/tvs/apache-rtr-180-abs/"
+  },
+  {
+    "bike_name": "HeroPleasure",
+    "bike_detail_name": "HeroPleasureDrumbrakeSheetMetalWheel",
+    "bike_price": "46,104Ex-Showroomprice,NewDelhi",
+    "engine": "102Cc",
+    "mileage": "50Kmpl",
+    "power": "6.9Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/59/e/hero-pleasure-1505825114.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/heromotocorp/pleasure/"
+  },
+  {
+    "bike_name": "HeroXtremeSports",
+    "bike_detail_name": "HeroXtremeSportsStandard",
+    "bike_price": "79,200Ex-Showroomprice,NewDelhi",
+    "engine": "149.2Cc",
+    "mileage": "62Kmpl",
+    "power": "15.2Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/73/5/hero-xtreme-sports-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/heromotocorp/xtreme-sports/"
+  },
+  {
+    "bike_name": "HeroGlamour",
+    "bike_detail_name": "HeroGlamourDrumBrakes",
+    "bike_price": "57,400Ex-Showroomprice,NewDelhi",
+    "engine": "124.7Cc",
+    "mileage": "60Kmpl",
+    "power": "9Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/d8/1/hero-glamour-1464785912.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/heromotocorp/glamour/"
+  },
+  {
+    "bike_name": "HondaLivo",
+    "bike_detail_name": "HondaLivoDrumBrake",
+    "bike_price": "56,980Ex-Showroomprice,NewDelhi",
+    "engine": "109.19Cc",
+    "mileage": "74Kmpl",
+    "power": "8.31Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/46/a/honda-livo-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/livo/"
+  },
+  {
+    "bike_name": "BajajPulsar160NS",
+    "bike_detail_name": "BajajPulsar160NSSTD",
+    "bike_price": "82,624Ex-Showroomprice,NewDelhi",
+    "engine": "160Cc",
+    "mileage": "45Kmpl",
+    "power": "15.5Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/66/b/bajaj-pulsar-160ns-1499235378.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bajaj/pulsar-160ns/"
+  },
+  {
+    "bike_name": "MahindraCenturo",
+    "bike_detail_name": "MahindraCenturoXT",
+    "bike_price": "49,507Ex-Showroomprice,NewDelhi",
+    "engine": "106Cc",
+    "mileage": "85.4Kmpl",
+    "power": "8.4Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/bb/3/mahindra-centuro-1464785912.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/mahindra/centuro/"
+  },
+  {
+    "bike_name": "YamahaYZFR15",
+    "bike_detail_name": "YamahaYZFR15Version2.0",
+    "bike_price": "1.19LakhsEx-Showroomprice,NewDelhi",
+    "engine": "149.8Cc",
+    "mileage": "46Kmpl",
+    "power": "16.8Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/a3/2/yamaha-yzf-r15-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/yamaha/yzf-r15/"
+  },
+  {
+    "bike_name": "TVSVictor",
+    "bike_detail_name": "TVSVictorDiscBrake",
+    "bike_price": "55,295Ex-Showroomprice,NewDelhi",
+    "engine": "109.3Cc",
+    "mileage": "76Kmpl",
+    "power": "9.4Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/33/3/tvs-victor-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/tvs/victor/"
+  },
+  {
+    "bike_name": "HondaActiva125",
+    "bike_detail_name": "HondaActiva125Standard",
+    "bike_price": "59,621Ex-Showroomprice,NewDelhi",
+    "engine": "124.9Cc",
+    "mileage": "59Kmpl",
+    "power": "8.52Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/ed/f/honda-activa-125-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/activa-125/"
+  },
+  {
+    "bike_name": "SuzukiLet's",
+    "bike_detail_name": "SuzukiLet'sStandard",
+    "bike_price": "46,048Ex-Showroomprice,NewDelhi",
+    "engine": "112Cc",
+    "mileage": "63Kmpl",
+    "power": "8.7Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/76/2/suzuki-lets-1464785913.JPG",
+    "bike_detail_link": "https://autoportal.com/newbikes/suzuki/lets/"
+  },
+  {
+    "bike_name": "HondaCBShineSP",
+    "bike_detail_name": "HondaCBShineSPCBS",
+    "bike_price": "67,477Ex-Showroomprice,NewDelhi",
+    "engine": "124.73Cc",
+    "mileage": "74.7Kmpl",
+    "power": "10.57Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/71/0/honda-cb-shine-sp-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/cb-shine-sp/"
+  },
+  {
+    "bike_name": "TVSSport",
+    "bike_detail_name": "TVSSportKickStart",
+    "bike_price": "43,866Ex-Showroomprice,NewDelhi",
+    "engine": "99.7Cc",
+    "mileage": "80Kmpl",
+    "power": "7.4Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/41/e/tvs-sport-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/tvs/sport/"
+  },
+  {
+    "bike_name": "TriumphBonnevilleT100",
+    "bike_detail_name": "TriumphBonnevilleT100Standard",
+    "bike_price": "8.87LakhsEx-Showroomprice,NewDelhi",
+    "engine": "900Cc",
+    "mileage": "18Kmpl",
+    "power": "54Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/f3/a/triumph-bonneville-t100-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/triumph/bonneville-t100/"
+  },
+  {
+    "bike_name": "BajajPulsarNS200",
+    "bike_detail_name": "BajajPulsarNS200ABS",
+    "bike_price": "1.12LakhsEx-Showroomprice,NewDelhi",
+    "engine": "199.5Cc",
+    "mileage": "35Kmpl",
+    "power": "23.2Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/70/c/bajaj-pulsar-200-ns-1464785912.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bajaj/pulsar-200-ns/"
+  },
+  {
+    "bike_name": "HondaCBHornet160R",
+    "bike_detail_name": "HondaCBHornet160RSTD",
+    "bike_price": "85,234Ex-Showroomprice,NewDelhi",
+    "engine": "162.71Cc",
+    "mileage": "59Kmpl",
+    "power": "14.9Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/30/2/honda-cb-hornet-160r-1522320974.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/hornet-160r/"
+  },
+  {
+    "bike_name": "BMWG310R",
+    "bike_detail_name": "BMWG310RSTD",
+    "bike_price": "2.99LakhsEx-Showroomprice,NewDelhi",
+    "engine": "313Cc",
+    "mileage": "25Kmpl",
+    "power": "34Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/16/7/bmw-g310r-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bmw/g310r/"
+  },
+  {
+    "bike_name": "BajajPlatina",
+    "bike_detail_name": "BajajPlatinaKickStart-CBS",
+    "bike_price": "40,500Ex-Showroomprice,NewDelhi",
+    "engine": "102Cc",
+    "mileage": "96.9Kmpl",
+    "power": "8.2Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/6e/2/bajaj-platina-1464785912.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bajaj/platina/"
+  },
+  {
+    "bike_name": "TVSScootyPep+",
+    "bike_detail_name": "TVSScootyPep+Standard",
+    "bike_price": "41,487Ex-Showroomprice,NewDelhi",
+    "engine": "87.8Cc",
+    "mileage": "65Kmpl",
+    "power": "3.6Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/a8/7/tvs-scooty-pep--1513082209.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/tvs/scooty-pep/"
+  },
+  {
+    "bike_name": "MahindraGusto",
+    "bike_detail_name": "MahindraGustoDX",
+    "bike_price": "48,615Ex-Showroomprice,NewDelhi",
+    "engine": "110Cc",
+    "mileage": "63.5Kmpl",
+    "power": "8Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/b8/7/mahindra-gusto-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/mahindra/gusto/"
+  },
+  {
+    "bike_name": "HondaCBUnicorn160",
+    "bike_detail_name": "HondaCBUnicorn160Standard",
+    "bike_price": "73,210Ex-Showroomprice,NewDelhi",
+    "engine": "162.71Cc",
+    "mileage": "62Kmpl",
+    "power": "14.5Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/c0/4/honda-cb-unicorn-160-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/cb-unicorn-160/"
+  },
+  {
+    "bike_name": "SuzukiIntruder150",
+    "bike_detail_name": "SuzukiIntruder150STD",
+    "bike_price": "99,995Ex-Showroomprice,NewDelhi",
+    "engine": "154Cc",
+    "mileage": "44Kmpl",
+    "power": "14Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/b7/b/suzuki-intruder-150-1510047830.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/suzuki/intruder-150/"
+  },
+  {
+    "bike_name": "YamahaCygnusAlpha",
+    "bike_detail_name": "YamahaCygnusAlphaDrum",
+    "bike_price": "53,651Ex-Showroomprice,NewDelhi",
+    "engine": "113Cc",
+    "mileage": "50.05Kmpl",
+    "power": "7Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/19/e/yamaha-alpha-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/yamaha/alpha/"
+  },
+  {
+    "bike_name": "HondaActiva5G",
+    "bike_detail_name": "HondaActiva5GDLX",
+    "bike_price": "55,430Ex-Showroomprice,NewDelhi",
+    "engine": "109.19Cc",
+    "mileage": "45Kmpl",
+    "power": "8Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/b7/8/honda-activa-5g-1522148835.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/activa-5g/"
+  },
+  {
+    "bike_name": "VespaLX125",
+    "bike_detail_name": "VespaLX125Standard",
+    "bike_price": "74,448Ex-Showroomprice,NewDelhi",
+    "engine": "125Cc",
+    "mileage": "62Kmpl",
+    "power": "10.6Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/2d/a/vespa-lx-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/vespa/lx/"
+  },
+  {
+    "bike_name": "HondaCBShine",
+    "bike_detail_name": "HondaCBShineSelf-Disc-Alloy",
+    "bike_price": "59,301Ex-Showroomprice,NewDelhi",
+    "engine": "124Cc",
+    "mileage": "65Kmpl",
+    "power": "10.57Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/5d/d/honda-cb-shine-1500373197.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/cb-shine/"
+  },
+  {
+    "bike_name": "TVSApacheRTR180",
+    "bike_detail_name": "TVSApacheRTR180Standard",
+    "bike_price": "83,183Ex-Showroomprice,NewDelhi",
+    "engine": "177Cc",
+    "mileage": "45Kmpl",
+    "power": "17.3Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/b0/8/tvs-apache-rtr-180-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/tvs/apache-rtr-180/"
+  },
+  {
+    "bike_name": "TVSZest",
+    "bike_detail_name": "TVSZestStandard",
+    "bike_price": "50,486Ex-Showroomprice,NewDelhi",
+    "engine": "109.7Cc",
+    "mileage": "62Kmpl",
+    "power": "7.9Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/2e/c/tvs-zest-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/tvs/zest/"
+  },
+  {
+    "bike_name": "YamahaSalutoRX",
+    "bike_detail_name": "YamahaSalutoRXSTD",
+    "bike_price": "48,221Ex-Showroomprice,NewDelhi",
+    "engine": "110Cc",
+    "mileage": "78Kmpl",
+    "power": "7.3Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/41/6/thumb.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/yamaha/saluto-rx/"
+  },
+  {
+    "bike_name": "YamahaFazer25",
+    "bike_detail_name": "YamahaFazer25Standard",
+    "bike_price": "1.29LakhsEx-Showroomprice,NewDelhi",
+    "engine": "249Cc",
+    "mileage": "43Kmpl",
+    "power": "20.3Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/da/3/yamaha-fazer-25-1503384967.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/yamaha/fazer-250/"
+  },
+  {
+    "bike_name": "HondaDreamYuga",
+    "bike_detail_name": "HondaDreamYugaSelf-Drum-Alloy",
+    "bike_price": "53,709Ex-Showroomprice,NewDelhi",
+    "engine": "109.19Cc",
+    "mileage": "64Kmpl",
+    "power": "8.31Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/df/1/honda-dream-yuga-1464785912.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/dream-yuga/"
+  },
+  {
+    "bike_name": "VespaRed",
+    "bike_detail_name": "VespaRedStandard",
+    "bike_price": "91,392Ex-Showroomprice,NewDelhi",
+    "engine": "150Cc",
+    "mileage": "45Kmpl",
+    "power": "9.9Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/b6/9/vespa-red-1507120058.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/vespa/s/"
+  },
+  {
+    "bike_name": "VespaVXL",
+    "bike_detail_name": "VespaVXL125",
+    "bike_price": "85,702Ex-Showroomprice,NewDelhi",
+    "engine": "125Cc",
+    "mileage": "59Kmpl",
+    "power": "9.9Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/b1/0/vespa-vxl-1464785913.JPG",
+    "bike_detail_link": "https://autoportal.com/newbikes/vespa/vxl/"
+  },
+  {
+    "bike_name": "SuzukiAccess125",
+    "bike_detail_name": "SuzukiAccess125DrumBrake",
+    "bike_price": "55,459Ex-Showroomprice,NewDelhi",
+    "engine": "124Cc",
+    "mileage": "64Kmpl",
+    "power": "6.3Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/bb/0/suzuki-access-125-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/suzuki/access-125/"
+  },
+  {
+    "bike_name": "YamahaFascino",
+    "bike_detail_name": "YamahaFascinoStandard",
+    "bike_price": "54,593Ex-Showroomprice,NewDelhi",
+    "engine": "113Cc",
+    "mileage": "66Kmpl",
+    "power": "7Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/91/3/yamaha-fascino-1500375799.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/yamaha/fascino/"
+  },
+  {
+    "bike_name": "HondaActiva-i",
+    "bike_detail_name": "HondaActiva-iStandard",
+    "bike_price": "50,010Ex-Showroomprice,NewDelhi",
+    "engine": "109Cc",
+    "mileage": "66Kmpl",
+    "power": "8Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/70/d/honda-activa-i-1549949329.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/activa-i/"
+  },
+  {
+    "bike_name": "RoyalEnfieldclassic350",
+    "bike_detail_name": "RoyalEnfieldclassic350RedditchEditionABS",
+    "bike_price": "1.79LakhsEx-Showroomprice,NewDelhi",
+    "engine": "346Cc",
+    "mileage": "37Kmpl",
+    "power": "19.8Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/c8/6/royal-enfield-classic-350-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/royalenfield/classic-350/"
+  },
+  {
+    "bike_name": "HondaGrazia",
+    "bike_detail_name": "HondaGraziaDLX",
+    "bike_price": "63,994Ex-Showroomprice,NewDelhi",
+    "engine": "124.9Cc",
+    "mileage": "54Kmpl",
+    "power": "8.52Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/cc/6/honda-grazia-1549949370.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/grazia/"
+  },
+  {
+    "bike_name": "DucatiXDiavel",
+    "bike_detail_name": "DucatiXDiavelS",
+    "bike_price": "19.30LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1262Cc",
+    "mileage": "15Kmpl",
+    "power": "150Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/a5/6/ducati-xdiavel-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/ducati/xdiavel/"
+  },
+  {
+    "bike_name": "TVSApacheRTR2004V",
+    "bike_detail_name": "TVSApacheRTR2004VRaceEdition2.0Pirelli",
+    "bike_price": "1.01LakhsEx-Showroomprice,NewDelhi",
+    "engine": "197Cc",
+    "mileage": "32Kmpl",
+    "power": "19.77Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/b3/7/tvs-apache-rtr-200-4v-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/tvs/apache-rtr-200-4v/"
+  },
+  {
+    "bike_name": "BajajPulsar125",
+    "bike_detail_name": "BajajPulsar125Disc-CBS",
+    "bike_price": "66,618Ex-Showroomprice,NewDelhi",
+    "engine": "124.9Cc",
+    "mileage": "55Kmpl",
+    "power": "11.8Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/f3/7/New Project (1).jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bajaj/pulsar-125/"
+  },
+  {
+    "bike_name": "HeroSuperSplendor",
+    "bike_detail_name": "HeroSuperSplendorSelfStartDrumBrakeAlloyWheel",
+    "bike_price": "58,650Ex-Showroomprice,NewDelhi",
+    "engine": "124.7Cc",
+    "mileage": "60Kmpl",
+    "power": "9Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/b2/b/hero-super-splendor-1464785912.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/heromotocorp/super-splendor/"
+  },
+  {
+    "bike_name": "RoyalEnfieldBullet350",
+    "bike_detail_name": "RoyalEnfieldBullet350ABS",
+    "bike_price": "1.21LakhsEx-Showroomprice,NewDelhi",
+    "engine": "346Cc",
+    "mileage": "53Kmpl",
+    "power": "19.8Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/1f/2/royal-enfield-bullet-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/royalenfield/bullet-350/"
+  },
+  {
+    "bike_name": "HeroDuet",
+    "bike_detail_name": "HeroDuetLX",
+    "bike_price": "47,250Ex-Showroomprice,NewDelhi",
+    "engine": "110.9Cc",
+    "mileage": "63.8Kmpl",
+    "power": "6Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/51/5/hero-duet-1505824478.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/heromotocorp/duet/"
+  },
+  {
+    "bike_name": "HondaXBlade",
+    "bike_detail_name": "HondaXBladeSTD",
+    "bike_price": "78,500Ex-Showroomprice,NewDelhi",
+    "engine": "162.71Cc",
+    "mileage": "45Kmpl",
+    "power": "13.93Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/a5/d/honda-x-blade.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/xblade/"
+  },
+  {
+    "bike_name": "BajajAvenger",
+    "bike_detail_name": "BajajAvenger220StreetABS",
+    "bike_price": "95,923Ex-Showroomprice,NewDelhi",
+    "engine": "220Cc",
+    "mileage": "45Kmpl",
+    "power": "19Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/57/9/bajaj-avenger-1519028599.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bajaj/avenger/"
+  },
+  {
+    "bike_name": "HeroPassion",
+    "bike_detail_name": "HeroPassionProDrum",
+    "bike_price": "50,800Ex-Showroomprice,NewDelhi",
+    "engine": "97.2Cc",
+    "mileage": "84Kmpl",
+    "power": "8.36Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/d8/b/hero-passion-1464785912.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/heromotocorp/passion-pro/"
+  },
+  {
+    "bike_name": "BajajDiscover",
+    "bike_detail_name": "BajajDiscover125Disc",
+    "bike_price": "57,990Ex-Showroomprice,NewDelhi",
+    "engine": "124.6Cc",
+    "mileage": "82.4Kmpl",
+    "power": "10.9Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/a4/b/bajaj-discover-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bajaj/discover/"
+  },
+  {
+    "bike_name": "RoyalEnfieldClassicchrome",
+    "bike_detail_name": "RoyalEnfieldClassicchromeStandard",
+    "bike_price": "1.96LakhsEx-Showroomprice,NewDelhi",
+    "engine": "499Cc",
+    "mileage": "39Kmpl",
+    "power": "27.5Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/14/9/royal-enfield-classic-chrome-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/royalenfield/classic-chrome/"
+  },
+  {
+    "bike_name": "RoyalEnfieldBullet500",
+    "bike_detail_name": "RoyalEnfieldBullet500RearDisc",
+    "bike_price": "1.74LakhsEx-Showroomprice,NewDelhi",
+    "engine": "499Cc",
+    "mileage": "33Kmpl",
+    "power": "27.2Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/ff/0/royal-enfield-bullet-500-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/royalenfield/bullet-500/"
+  },
+  {
+    "bike_name": "BajajPlatina110",
+    "bike_detail_name": "BajajPlatina110CBS",
+    "bike_price": "49,197Ex-Showroomprice,NewDelhi",
+    "engine": "115Cc",
+    "mileage": "80Kmpl",
+    "power": "8.6Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/1e/5/0.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bajaj/platina-110/"
+  },
+  {
+    "bike_name": "HondaCBR250R",
+    "bike_detail_name": "HondaCBR250RSTD",
+    "bike_price": "1.64LakhsEx-Showroomprice,NewDelhi",
+    "engine": "249.6Cc",
+    "mileage": "29Kmpl",
+    "power": "26.15Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/f8/7/honda-cbr-250r-1521550241.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/cbr-250r/"
+  },
+  {
+    "bike_name": "HeroSplendoriSmartBS6",
+    "bike_detail_name": "HeroSplendoriSmartBS6Standard",
+    "bike_price": "64,900Ex-Showroomprice,NewDelhi",
+    "engine": "110Cc",
+    "mileage": "61Kmpl",
+    "power": "9Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/2d/4/hero-splendor-ismart-1570598625.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/heromotocorp/splendor-ismart-bs6/"
+  },
+  {
+    "bike_name": "HeroPassionXPro",
+    "bike_detail_name": "HeroPassionXProDrumSelfAlloy",
+    "bike_price": "54,650Ex-Showroomprice,NewDelhi",
+    "engine": "109Cc",
+    "mileage": "70Kmpl",
+    "power": "8.7Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/19/c/hero-passion-x-pro-1464785912.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/heromotocorp/passion-x-pro/"
+  },
+  {
+    "bike_name": "RoyalEnfieldClassicDesertStorm",
+    "bike_detail_name": "RoyalEnfieldClassicDesertStormStandard",
+    "bike_price": "1.88LakhsEx-Showroomprice,NewDelhi",
+    "engine": "499Cc",
+    "mileage": "39Kmpl",
+    "power": "27.2Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/35/0/royal-enfield-classic-desert-strom-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/royalenfield/classic-desert-storm/"
+  },
+  {
+    "bike_name": "HeroSplendor",
+    "bike_detail_name": "HeroSplendorKickalloy",
+    "bike_price": "48,930Ex-Showroomprice,NewDelhi",
+    "engine": "97Cc",
+    "mileage": "81Kmpl",
+    "power": "8.2Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/a0/6/hero-splendor-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/heromotocorp/splendor/"
+  },
+  {
+    "bike_name": "HondaGoldWing",
+    "bike_detail_name": "HondaGoldWingGL1800",
+    "bike_price": "27.79LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1832Cc",
+    "mileage": "19Kmpl",
+    "power": "120Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/d4/1/honda-gold-wing-1544530533.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/gold-wing-gl1800/"
+  },
+  {
+    "bike_name": "DucatiScrambler",
+    "bike_detail_name": "DucatiScramblerIcon",
+    "bike_price": "7.69LakhsEx-Showroomprice,NewDelhi",
+    "engine": "803Cc",
+    "mileage": "20Kmpl",
+    "power": "72Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/3e/1/ducati-scrambler-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/ducati/scrambler/"
+  },
+  {
+    "bike_name": "TriumphTiger800XR",
+    "bike_detail_name": "TriumphTiger800XRStandard",
+    "bike_price": "10.89LakhsEx-Showroomprice,NewDelhi",
+    "engine": "800Cc",
+    "mileage": "19Kmpl",
+    "power": "94Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/2f/a/triumph-tiger-800xr-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/triumph/tiger-800xr/"
+  },
+  {
+    "bike_name": "HondaCBR650R",
+    "bike_detail_name": "HondaCBR650RStandard",
+    "bike_price": "7.70LakhsEx-Showroomprice,NewDelhi",
+    "engine": "648.72Cc",
+    "mileage": "25.2Kmpl",
+    "power": "85.9Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/94/3/honda-cbr-650r-1556000774.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/cbr-650/"
+  },
+  {
+    "bike_name": "SuzukiGSX-S1000",
+    "bike_detail_name": "SuzukiGSX-S1000ABS",
+    "bike_price": "12.70LakhsEx-Showroomprice,NewDelhi",
+    "engine": "999Cc",
+    "mileage": "12Kmpl",
+    "power": "144Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/e6/7/suzuki-gsx-s1000-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/suzuki/gsx-s1000/"
+  },
+  {
+    "bike_name": "Ducati1299Panigale",
+    "bike_detail_name": "Ducati1299PanigaleRFinalEdition",
+    "bike_price": "59.18LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1198Cc",
+    "mileage": "15Kmpl",
+    "power": "207Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/6c/e/ducati-1299-panigale-1500875569.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/ducati/1299-panigale/"
+  },
+  {
+    "bike_name": "DucatiMonster821",
+    "bike_detail_name": "DucatiMonster821Standard",
+    "bike_price": "9.51LakhsEx-Showroomprice,NewDelhi",
+    "engine": "821Cc",
+    "mileage": "15Kmpl",
+    "power": "112Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/3e/0/ducati-monster-821-1464785913.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/ducati/821/"
+  },
+  {
+    "bike_name": "KawasakiKLX110",
+    "bike_detail_name": "KawasakiKLX110Standard",
+    "bike_price": "3.00LakhsEx-Showroomprice,NewDelhi",
+    "engine": "112Cc",
+    "mileage": "20Kmpl",
+    "power": "7.14Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/dc/6/kawasaki-klx110-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/kawasaki/klx110/"
+  },
+  {
+    "bike_name": "VespaElegante",
+    "bike_detail_name": "VespaEleganteStandard",
+    "bike_price": "1.01LakhsEx-Showroomprice,NewDelhi",
+    "engine": "125Cc",
+    "mileage": "52Kmpl",
+    "power": "9.9Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/16/f/vespa-elegante-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/vespa/elegante/"
+  },
+  {
+    "bike_name": "KawasakiVersys650",
+    "bike_detail_name": "KawasakiVersys650Standard",
+    "bike_price": "6.69LakhsEx-Showroomprice,NewDelhi",
+    "engine": "649Cc",
+    "mileage": "20Kmpl",
+    "power": "68Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/42/a/kawasaki-versys-650-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/kawasaki/versys-650/"
+  },
+  {
+    "bike_name": "TriumphBonnevilleT120",
+    "bike_detail_name": "TriumphBonnevilleT120Standard",
+    "bike_price": "9.05LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1200Cc",
+    "mileage": "18Kmpl",
+    "power": "79Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/bf/5/triumph-bonneville-t120-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/triumph/bonneville-t120/"
+  },
+  {
+    "bike_name": "Ducati959Panigale",
+    "bike_detail_name": "Ducati959PanigaleStandrad",
+    "bike_price": "14.58LakhsEx-Showroomprice,NewDelhi",
+    "engine": "955Cc",
+    "mileage": "18Kmpl",
+    "power": "148Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/9f/6/ducati-959-panigale-1505802269.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/ducati/959-panigale/"
+  },
+  {
+    "bike_name": "TriumphThruxtonR",
+    "bike_detail_name": "TriumphThruxtonRStandard",
+    "bike_price": "11.16LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1200Cc",
+    "mileage": "21Kmpl",
+    "power": "96Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/52/9/side-bike_52.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/triumph/thruxton-r/"
+  },
+  {
+    "bike_name": "IndianMotorcycleSpringfield",
+    "bike_detail_name": "IndianMotorcycleSpringfieldStandard",
+    "bike_price": "33.84LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1811Cc",
+    "mileage": "14Kmpl",
+    "power": "100Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/42/7/Untitled-2_03.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/indianmotorcycle/springfield/"
+  },
+  {
+    "bike_name": "HondaAfricaTwin",
+    "bike_detail_name": "HondaAfricaTwinSTD",
+    "bike_price": "13.50LakhsEx-Showroomprice,NewDelhi",
+    "engine": "998Cc",
+    "mileage": "16Kmpl",
+    "power": "87Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/fb/5/honda-crf-1000l-1464785913.JPG",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/crf-1000l/"
+  },
+  {
+    "bike_name": "RoyalEnfieldClassicSquadronBlue",
+    "bike_detail_name": "RoyalEnfieldClassicSquadronBlueStandard",
+    "bike_price": "1.88LakhsEx-Showroomprice,NewDelhi",
+    "engine": "499Cc",
+    "mileage": "42Kmpl",
+    "power": "27.2Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/a8/7/royal-enfield-classic-squadron-blue-1497338508.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/royalenfield/classic-squadron-blue/"
+  },
+  {
+    "bike_name": "RoyalEnfieldBulletES",
+    "bike_detail_name": "RoyalEnfieldBulletESStandard",
+    "bike_price": "1.31LakhsEx-Showroomprice,NewDelhi",
+    "engine": "346Cc",
+    "mileage": "54Kmpl",
+    "power": "19.8Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/c0/5/royal-enfield-bullet-es-1497355509.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/royalenfield/bullet-es/"
+  },
+  {
+    "bike_name": "DucatiMonster797",
+    "bike_detail_name": "DucatiMonster797STD",
+    "bike_price": "8.14LakhsEx-Showroomprice,NewDelhi",
+    "engine": "803Cc",
+    "mileage": "18Kmpl",
+    "power": "75Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/d4/4/ducati-monster-797-1497441133.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/ducati/monster-797/"
+  },
+  {
+    "bike_name": "ApriliaShiver900",
+    "bike_detail_name": "ApriliaShiver900STD",
+    "bike_price": "12.96LakhsEx-Showroomprice,NewDelhi",
+    "engine": "896.1Cc",
+    "mileage": "20Kmpl",
+    "power": "92.5Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/82/0/aprilia-shiver-900-1499078104.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/aprilia/shiver-900/"
+  },
+  {
+    "bike_name": "HondaCliq",
+    "bike_detail_name": "HondaCliqSTD",
+    "bike_price": "44,364Ex-Showroomprice,NewDelhi",
+    "engine": "109.2Cc",
+    "mileage": "60Kmpl",
+    "power": "8Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/f/3/Honda Cliq side.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/cliq/"
+  },
+  {
+    "bike_name": "BMWS1000XR",
+    "bike_detail_name": "BMWS1000XRSTD",
+    "bike_price": "18.77LakhsEx-Showroomprice,NewDelhi",
+    "engine": "999Cc",
+    "mileage": "20Kmpl",
+    "power": "159.8Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/a/e/bmw-s-1000-xr-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bmw/s-1000-xr/"
+  },
+  {
+    "bike_name": "ApriliaSR150",
+    "bike_detail_name": "ApriliaSR150STD",
+    "bike_price": "71,533Ex-Showroomprice,NewDelhi",
+    "engine": "154.8Cc",
+    "mileage": "40Kmpl",
+    "power": "10.25Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/39/c/aprilia-sr-150-1464785913.JPG",
+    "bike_detail_link": "https://autoportal.com/newbikes/aprilia/sr-150/"
+  },
+  {
+    "bike_name": "MotoGuzziMGX\u201321",
+    "bike_detail_name": "MotoGuzziMGX\u201321Standard",
+    "bike_price": "29.02LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1380Cc",
+    "mileage": "15Kmpl",
+    "power": "96Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/8b/5/Untitled-2_03 (1).jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/motoguzzi/mgx-21/"
+  },
+  {
+    "bike_name": "KawasakiKLX140",
+    "bike_detail_name": "KawasakiKLX140Standard",
+    "bike_price": "3.88LakhsEx-Showroomprice,NewDelhi",
+    "engine": "144Cc",
+    "mileage": "14Kmpl",
+    "power": "197Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/b2/1/jzrrqmsp.qes (1).jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/kawasaki/klx-140/"
+  },
+  {
+    "bike_name": "TriumphBonnevilleBobber",
+    "bike_detail_name": "TriumphBonnevilleBobberStandard",
+    "bike_price": "9.22LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1200Cc",
+    "mileage": "24Kmpl",
+    "power": "76Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/1a/2/triumph-bonneville-bobber-1504867038.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/triumph/bonneville-bobber/"
+  },
+  {
+    "bike_name": "BMWR1200RS",
+    "bike_detail_name": "BMWR1200RSStandard",
+    "bike_price": "16.13LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1170Cc",
+    "mileage": "20Kmpl",
+    "power": "121.6Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/2f/e/thumb0.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bmw/r1200-rs/"
+  },
+  {
+    "bike_name": "DucatiScramblerDesertSled",
+    "bike_detail_name": "DucatiScramblerDesertSledStandard",
+    "bike_price": "9.93LakhsEx-Showroomprice,NewDelhi",
+    "engine": "803Cc",
+    "mileage": "20Kmpl",
+    "power": "74Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/1a/b/Ducati-Scrambler-Desert-Sled-Side-103085.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/ducati/scrambler-desert-sled/"
+  },
+  {
+    "bike_name": "MotoGuzziAudace",
+    "bike_detail_name": "MotoGuzziAudaceStandard",
+    "bike_price": "19.94LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1380Cc",
+    "mileage": "15Kmpl",
+    "power": "96Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/1b/5/california_audace_nero-opaco.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/motoguzzi/audace/"
+  },
+  {
+    "bike_name": "MotoGuzziEldorado",
+    "bike_detail_name": "MotoGuzziEldoradoStandard",
+    "bike_price": "23.20LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1380Cc",
+    "mileage": "14Kmpl",
+    "power": "96Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/51/5/moto-guzzi-eldorado-1500895767.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/motoguzzi/eldorado/"
+  },
+  {
+    "bike_name": "BenelliTornado302R",
+    "bike_detail_name": "BenelliTornado302RStandard",
+    "bike_price": "3.48LakhsEx-Showroomprice,NewDelhi",
+    "engine": "300Cc",
+    "mileage": "20Kmpl",
+    "power": "38.26Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/c5/e/benelli-tornado-302-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/benelli/tornado-302/"
+  },
+  {
+    "bike_name": "DucatiScramblerCafeRacer",
+    "bike_detail_name": "DucatiScramblerCafeRacerStandard",
+    "bike_price": "9.78LakhsEx-Showroomprice,NewDelhi",
+    "engine": "803Cc",
+    "mileage": "20Kmpl",
+    "power": "71.4Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/d6/2/thumb.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/ducati/scrambler-cafe-racer/"
+  },
+  {
+    "bike_name": "SuzukiGixxerSFFi(ABS)",
+    "bike_detail_name": "SuzukiGixxerSFFi(ABS)Standard",
+    "bike_price": "1.00LakhsEx-Showroomprice,NewDelhi",
+    "engine": "154.9Cc",
+    "mileage": "47Kmpl",
+    "power": "14.6Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/e4/a/glass-sparkle-black-metallic-mat-black-kgl-.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/suzuki/gixxer-sf-fi/"
+  },
+  {
+    "bike_name": "SuzukiGixxerSP",
+    "bike_detail_name": "SuzukiGixxerSPStandard",
+    "bike_price": "81,175Ex-Showroomprice,NewDelhi",
+    "engine": "155Cc",
+    "mileage": "45Kmpl",
+    "power": "14.6Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/88/9/gixxer_6.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/suzuki/gixxer-sp/"
+  },
+  {
+    "bike_name": "SuzukiGixxerSFSP",
+    "bike_detail_name": "SuzukiGixxerSFSPStandard",
+    "bike_price": "90,037Ex-Showroomprice,NewDelhi",
+    "engine": "155Cc",
+    "mileage": "45Kmpl",
+    "power": "14.6Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/72/c/gixxer-sf_5.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/suzuki/gixxer-sf-sp/"
+  },
+  {
+    "bike_name": "TriumphStreetScrambler",
+    "bike_detail_name": "TriumphStreetScramblerStandard",
+    "bike_price": "8.55LakhsEx-Showroomprice,NewDelhi",
+    "engine": "900Cc",
+    "mileage": "18Kmpl",
+    "power": "54Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/b1/2/thumb.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/triumph/street-scrambler/"
+  },
+  {
+    "bike_name": "DucatiSuperSport",
+    "bike_detail_name": "DucatiSuperSportStandard",
+    "bike_price": "12.08LakhsEx-Showroomprice,NewDelhi",
+    "engine": "937Cc",
+    "mileage": "20Kmpl",
+    "power": "109Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/e/b/Untitled-1_03.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/ducati/supersport/"
+  },
+  {
+    "bike_name": "IndianMotorcycleScoutBobber",
+    "bike_detail_name": "IndianMotorcycleScoutBobberStandard",
+    "bike_price": "13.15LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1133Cc",
+    "mileage": "14Kmpl",
+    "power": "94Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/6b/1/2017-07-17 (1).jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/indianmotorcycle/scout-bobber/"
+  },
+  {
+    "bike_name": "KawasakiVersysX-300",
+    "bike_detail_name": "KawasakiVersysX-300Standard",
+    "bike_price": "4.60LakhsEx-Showroomprice,NewDelhi",
+    "engine": "296Cc",
+    "mileage": "22Kmpl",
+    "power": "39Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/f7/3/kwewtfs5.o2w.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/kawasaki/versys-x-300/"
+  },
+  {
+    "bike_name": "TVSApacheRR310",
+    "bike_detail_name": "TVSApacheRR310Standard",
+    "bike_price": "2.23LakhsEx-Showroomprice,NewDelhi",
+    "engine": "312.2Cc",
+    "mileage": "30Kmpl",
+    "power": "33Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/6/d/tvs-apache-rr-310-1512710511.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/tvs/akula-310/"
+  },
+  {
+    "bike_name": "DucatiScramblerMach2.0",
+    "bike_detail_name": "DucatiScramblerMach2.0STD",
+    "bike_price": "8.60LakhsEx-Showroomprice,NewDelhi",
+    "engine": "803Cc",
+    "mileage": "20Kmpl",
+    "power": "71.4Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/2b/6/1.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/ducati/scrambler-mach-2-0/"
+  },
+  {
+    "bike_name": "KawasakiVulcanS",
+    "bike_detail_name": "KawasakiVulcanSSTD",
+    "bike_price": "5.44LakhsEx-Showroomprice,NewDelhi",
+    "engine": "649Cc",
+    "mileage": "16Kmpl",
+    "power": "60Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/ce/c/kawasaki-vulcan-s-1464785913.JPG",
+    "bike_detail_link": "https://autoportal.com/newbikes/kawasaki/vulcan-s/"
+  },
+  {
+    "bike_name": "KawasakiNinjaH2SX",
+    "bike_detail_name": "KawasakiNinjaH2SXSTD",
+    "bike_price": "21.80LakhsEx-Showroomprice,NewDelhi",
+    "engine": "998Cc",
+    "mileage": "15Kmpl",
+    "power": "197Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/87/3/2018-Kawasaki-Ninja-H2-SX-SE1.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/kawasaki/ninja-h2-sx/"
+  },
+  {
+    "bike_name": "KawasakiNinjaH2SXSE",
+    "bike_detail_name": "KawasakiNinjaH2SXSESTD",
+    "bike_price": "26.80LakhsEx-Showroomprice,NewDelhi",
+    "engine": "998Cc",
+    "mileage": "15Kmpl",
+    "power": "197Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/db/e/2018-Kawasaki-Ninja-H2-SX-SE1.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/kawasaki/ninja-h2-sx-se/"
+  },
+  {
+    "bike_name": "BMWF750GS",
+    "bike_detail_name": "BMWF750GSSTD",
+    "bike_price": "12.20LakhsEx-Showroomprice,NewDelhi",
+    "engine": "853Cc",
+    "mileage": "22Kmpl",
+    "power": "76Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/5b/a/BMW 750S Advn.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bmw/f750-gs/"
+  },
+  {
+    "bike_name": "BMWF850GS",
+    "bike_detail_name": "BMWF850GSSTD",
+    "bike_price": "13.70LakhsEx-Showroomprice,NewDelhi",
+    "engine": "853Cc",
+    "mileage": "24Kmpl",
+    "power": "95Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/2f/2/850GS.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bmw/f850-gs/"
+  },
+  {
+    "bike_name": "KawasakiZ900RS",
+    "bike_detail_name": "KawasakiZ900RSSTD",
+    "bike_price": "15.30LakhsEx-Showroomprice,NewDelhi",
+    "engine": "948Cc",
+    "mileage": "20Kmpl",
+    "power": "109Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/1b/9/Z900RS 1.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/kawasaki/z900rs/"
+  },
+  {
+    "bike_name": "TriumphSpeedmaster",
+    "bike_detail_name": "TriumphSpeedmasterSTD",
+    "bike_price": "11.12LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1200Cc",
+    "mileage": "23.25Kmpl",
+    "power": "76Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/4/e/DW-PS-RHS_Fusion-White-Phantom-Black-1920-x-1080.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/triumph/speed-master/"
+  },
+  {
+    "bike_name": "RoyalEnfieldThunderbird500X",
+    "bike_detail_name": "RoyalEnfieldThunderbird500XSTD",
+    "bike_price": "1.99LakhsEx-Showroomprice,NewDelhi",
+    "engine": "499Cc",
+    "mileage": "30Kmpl",
+    "power": "27.2Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/af/e/Royal-Enfield-Thunderbird-X-side-2.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/royalenfield/thunderbird-500x/"
+  },
+  {
+    "bike_name": "MahindraMojo",
+    "bike_detail_name": "MahindraMojoXT300",
+    "bike_price": "1.80LakhsEx-Showroomprice,NewDelhi",
+    "engine": "295Cc",
+    "mileage": "35Kmpl",
+    "power": "26.45Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/4e/b/mahindra-mojo-1500375146.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/mahindra/mojo/"
+  },
+  {
+    "bike_name": "YamahaYZFR3",
+    "bike_detail_name": "YamahaYZFR3STD",
+    "bike_price": "3.48LakhsEx-Showroomprice,NewDelhi",
+    "engine": "321Cc",
+    "mileage": "22Kmpl",
+    "power": "41Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/a/6/yamaha-yzf-r3-1522395095.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/yamaha/yzf-r3/"
+  },
+  {
+    "bike_name": "KawasakiNinja400",
+    "bike_detail_name": "KawasakiNinja400STD",
+    "bike_price": "4.69LakhsEx-Showroomprice,NewDelhi",
+    "engine": "399Cc",
+    "mileage": "25Kmpl",
+    "power": "48.3Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/df/a/Kawasaki Ninja 400 2018_4 (1).jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/kawasaki/ninja-400/"
+  },
+  {
+    "bike_name": "ApriliaSR125",
+    "bike_detail_name": "ApriliaSR125Standard",
+    "bike_price": "67,004Ex-Showroomprice,NewDelhi",
+    "engine": "124Cc",
+    "mileage": "40Kmpl",
+    "power": "9.4Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/9e/e/SR 125.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/aprilia/sr-125/"
+  },
+  {
+    "bike_name": "SuzukiGSX-S750",
+    "bike_detail_name": "SuzukiGSX-S750STD",
+    "bike_price": "7.47LakhsEx-Showroomprice,NewDelhi",
+    "engine": "749Cc",
+    "mileage": "20Kmpl",
+    "power": "113Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/f8/6/suzuki-gsx-s750-1525945326.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/suzuki/gsx-s750/"
+  },
+  {
+    "bike_name": "TriumphTiger1200",
+    "bike_detail_name": "TriumphTiger1200Xcx",
+    "bike_price": "17.00LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1215Cc",
+    "mileage": "20Kmpl",
+    "power": "139Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/e8/9/tiger_1200_xca-lhs-crystal-white_1.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/triumph/tiger-1200/"
+  },
+  {
+    "bike_name": "DucatiMultistrada1260",
+    "bike_detail_name": "DucatiMultistrada1260STD",
+    "bike_price": "17.80LakhsEx-Showroomprice,NewDelhi",
+    "engine": "1262Cc",
+    "mileage": "19.2Kmpl",
+    "power": "158Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/86/8/Multistrada-1260-MY18-Red-33-Slider-Gallery-1920x1080.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/ducati/multistrada-1260/"
+  },
+  {
+    "bike_name": "BMWG310GS",
+    "bike_detail_name": "BMWG310GSSTD",
+    "bike_price": "3.49LakhsEx-Showroomprice,NewDelhi",
+    "engine": "313Cc",
+    "mileage": "25Kmpl",
+    "power": "34Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/4b/0/side_09.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bmw/g-310-gs/"
+  },
+  {
+    "bike_name": "SuzukiBurgmanStreet",
+    "bike_detail_name": "SuzukiBurgmanStreetSTD",
+    "bike_price": "68,836Ex-Showroomprice,NewDelhi",
+    "engine": "124Cc",
+    "mileage": "65Kmpl",
+    "power": "8.6Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/d3/1/suzuki-burgman-street-1531999775.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/suzuki/burgman-street/"
+  },
+  {
+    "bike_name": "HeroDestini125",
+    "bike_detail_name": "HeroDestini125LX",
+    "bike_price": "54,650Ex-Showroomprice,NewDelhi",
+    "engine": "124.6Cc",
+    "mileage": "55Kmpl",
+    "power": "6.5Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/66/5/destiny-125cc-24.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/heromotocorp/destini-125/"
+  },
+  {
+    "bike_name": "BajajPulsar",
+    "bike_detail_name": "BajajPulsar150Neon",
+    "bike_price": "64,998Ex-Showroomprice,NewDelhi",
+    "engine": "149Cc",
+    "mileage": "65Kmpl",
+    "power": "15Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/6c/6/bajaj-pulsar-1464785913.jpg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bajaj/pulsar/"
+  },
+  {
+    "bike_name": "YamahaMT-15",
+    "bike_detail_name": "YamahaMT-15Standard",
+    "bike_price": "1.36LakhsEx-Showroomprice,NewDelhi",
+    "engine": "155Cc",
+    "mileage": "35Kmpl",
+    "power": "19Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/7f/0/yamaha-mt-15-1552637501.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/yamaha/mt-15/"
+  },
+  {
+    "bike_name": "HeroXtreme200S",
+    "bike_detail_name": "HeroXtreme200SSTD",
+    "bike_price": "98,400Ex-Showroomprice,NewDelhi",
+    "engine": "199.6Cc",
+    "mileage": "36Kmpl",
+    "power": "18.1Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/97/1/hero-xtreme-200s-1557304013.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/heromotocorp/xtreme-200s/"
+  },
+  {
+    "bike_name": "ApriliaStorm125",
+    "bike_detail_name": "ApriliaStorm125STD",
+    "bike_price": "65,000Ex-Showroomprice,NewDelhi",
+    "engine": "124.49Cc",
+    "mileage": "38Kmpl",
+    "power": "9.4Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/ad/0/aprilia-storm-125-1522220830.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/aprilia/storm-125/"
+  },
+  {
+    "bike_name": "HeroNewSuperSplendor",
+    "bike_detail_name": "HeroNewSuperSplendorSelfStartDrumBrakeAlloyWheel",
+    "bike_price": "60,750Ex-Showroomprice,NewDelhi",
+    "engine": "124.7Cc",
+    "mileage": "60Kmpl",
+    "power": "9Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/7f/3/Super Splendor 2.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/heromotocorp/new-super-splendor/"
+  },
+  {
+    "bike_name": "BajajPulsar220F",
+    "bike_detail_name": "BajajPulsar220FSTD",
+    "bike_price": "1.07LakhsEx-Showroomprice,NewDelhi",
+    "engine": "220Cc",
+    "mileage": "40Kmpl",
+    "power": "20.65Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/27/e/bajaj-pulsar-220f-1571594607.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/bajaj/pulsar-220f/"
+  },
+  {
+    "bike_name": "BajajPulsarRS200",
+    "bike_detail_name": "BajajPulsarRS200ABS",
+    "bike_price": "1.40LakhsEx-Showroomprice,NewDelhi",
+    "engine": "199.5Cc",
+    "mileage": "35Kmpl",
+    "power": "24.16Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/79/d/bajaj-pulsar-rs-200-1571593178.jpeg",
+    "bike_detail_link": "https://autoportal.com/newbikes/bajaj/pulsar-rs-200/"
+  },
+  {
+    "bike_name": "YamahaFZ-SVersion3.0",
+    "bike_detail_name": "YamahaFZ-SVersion3.0DarkNight",
+    "bike_price": "1.03LakhsEx-Showroomprice,NewDelhi",
+    "engine": "149Cc",
+    "mileage": "45Kmpl",
+    "power": "13.2Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/f2/e/New Project (21).png",
+    "bike_detail_link": "https://autoportal.com/newbikes/yamaha/fz-s-version-3-0/"
+  },
+  {
+    "bike_name": "HondaActiva6G",
+    "bike_detail_name": "HondaActiva6GStandard",
+    "bike_price": "63,912Ex-Showroomprice,NewDelhi",
+    "engine": "109.51Cc",
+    "mileage": "60Kmpl",
+    "power": "7.6Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/49/0/honda-activa-5g-1522148835.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/honda/activa-6g/"
+  },
+  {
+    "bike_name": "TVSApacheRTR1604VBS6",
+    "bike_detail_name": "TVSApacheRTR1604VBS6DrumABS",
+    "bike_price": "99,950Ex-Showroomprice,NewDelhi",
+    "engine": "159.7Cc",
+    "mileage": "30Kmpl",
+    "power": "16.28Bhp",
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/68/0/7.png",
+    "bike_detail_link": "https://autoportal.com/newbikes/tvs/apache-rtr-160-4v/"
+  }
+]
