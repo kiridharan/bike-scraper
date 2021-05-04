@@ -108,7 +108,8 @@ celerybeat.pid
 # Environments
 .scrapy_env
 .venv
-sracpy_env/
+sracpy_env/Scripts
+sracpy_env/pyvenv.cfg
 venv/
 ENV/
 env.bak/
