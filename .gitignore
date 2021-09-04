@@ -107,7 +107,7 @@ celerybeat.pid
 
 # Environments
 .scrapy_env
-.venv
+env
 sracpy_env/Scripts
 sracpy_env/pyvenv.cfg
 venv/
